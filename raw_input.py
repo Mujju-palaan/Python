@@ -1,0 +1,8 @@
+print("enter a number:")
+number1 = int(raw_input())
+print("enter another number:")
+number2= int(raw_input())
+print("the sum is: " + str(number1+number2))
+print("the multiplication is: " + str(number1 * number2))
+print("the division is:" + str(number1/number2))
+print("the sub is:" + str(number1-number2))
