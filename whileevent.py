@@ -3,6 +3,7 @@ total = 0
 count = 0
 print("Enterr a grade (-1 to quit): ")
 grade = int(raw_input())
+print(grade)
 while grade != -1:
     total = total + grade
     count = count + 1

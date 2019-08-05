@@ -1,4 +1,4 @@
-number = 0
+numer = 0
 denom = 0
 while denom != -1:
     print("enter  numberator: ")
